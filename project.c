@@ -1,7 +1,7 @@
 // project.c ... project scan functions
 // part of Multi-attribute Linear-hashed Files
 // Manage creating and using Projection objects
-// Last modified by Xiangjun Zai, Mar 2025
+// Last modified by David LI, Apr 2025
 
 #include <stdbool.h>
 #include "defs.h"

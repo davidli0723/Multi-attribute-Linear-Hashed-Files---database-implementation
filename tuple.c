@@ -1,7 +1,7 @@
 // tuple.c ... functions on tuples
 // part of Multi-attribute Linear-hashed Files
 // Credt: John Shepherd
-// Last modified by Xiangjun Zai, 24/03/2024
+// Last modified by David LI, Apr 2025
 
 #include "defs.h"
 #include "tuple.h"

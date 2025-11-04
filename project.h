@@ -1,7 +1,7 @@
 // project.h ... interface to query scan functions
 // part of Multi-attribute Linear-hashed Files
 // See project.c for details of Projection type and functions
-// Last modified by Xiangjun Zai, Mar 2025
+// Last modified by David LI, Apr 2025
 
 #ifndef PROJECTION_H
 #define PROJECTION_H 1

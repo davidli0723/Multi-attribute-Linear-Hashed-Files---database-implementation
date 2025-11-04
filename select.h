@@ -2,7 +2,7 @@
 // part of Multi-attribute Linear-hashed Files
 // See select.c for details of Selection type and functions
 // Credit: John Shepherd
-// Last modified by Xiangjun Zai, Mar 2025
+// Last modified by David LI, Mar 2025
 
 #ifndef SELECTION_H
 #define SELECTION_H 1

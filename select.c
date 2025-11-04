@@ -2,7 +2,7 @@
 // part of Multi-attribute Linear-hashed Files
 // Manage creating and using Selection objects
 // Credit: John Shepherd
-// Last modified by Xiangjun Zai, Mar 2025
+// Last modified by David LI, Mar 2025
 
 #include "defs.h"
 #include "select.h"

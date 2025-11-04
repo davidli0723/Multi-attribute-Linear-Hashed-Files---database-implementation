@@ -1,7 +1,7 @@
 // reln.c ... functions on Relations
 // part of Multi-attribute Linear-hashed Files
 // Credit: John Shepherd
-// Last modified by Xiangjun Zai, Mar 2025
+// Last modified by David LI, Apr 2025
 
 #include "defs.h"
 #include "reln.h"
